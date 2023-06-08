@@ -17,6 +17,7 @@ import { ButtonSplashComponent } from './button-splash/button-splash.component';
     AppRoutingModule
   ],
   providers: [],
+  // Prueba menu-lateral
   bootstrap: [ButtonSplashComponent]
 })
 export class AppModule { }
